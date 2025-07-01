@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 # I'm outputing text with echo 
-echo "first script"
+echo "maple's script"
 
 # i'm listing the contents of my current directory
 ls
